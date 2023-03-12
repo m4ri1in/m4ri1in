@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m4ri1in
-- 👀 I’m interested in QA and coding
+- 👀 I’m interested in Testing
 - 🌱 I’m currently learning QA Automation
 - 💞️ I’m looking to collaborate on cool projects
 
